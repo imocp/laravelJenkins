@@ -11,7 +11,7 @@ pipeline {
             steps {
                 checkout scm: [
                     $class: 'GitSCM',
-                    userRemoteConfigs: [[url: 'https://github.com/lutfi-ingram/laravelJenkins.git']],
+                    userRemoteConfigs: [[url: 'https://github.com/imocp/laravelJenkins.git']],
                     branches: [[name: 'refs/heads/master']]
                 ], poll: true
             }
