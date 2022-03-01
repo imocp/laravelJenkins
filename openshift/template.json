@@ -265,7 +265,7 @@
             "name": "SOURCE_REPOSITORY_URL",
             "displayName": "Git Repository URL",
             "description": "The URL of the repository with your application source code.",
-            "value": "https://github.com/lutfi-ingram/laravelJenkins.git",
+            "value": "https://github.com/imocp/laravelJenkins.git",
             "required": true
         },
         {
