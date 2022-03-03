@@ -22,7 +22,7 @@
     </head>
     <body class="antialiased">
         <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0" style="background-color:#9df8ac">
-           <center> <img src="https://www.vhv.rs/dpng/d/300-3007624_jenkins-hd-png-download.png" width="500" height="100"> </center><p>
+           <img src="http://assets.stickpng.com/images/58480984cef1014c0b5e4902.png" width="100" height="100"> <p>
             <h1>CI CD (Jenkins) Live Demo Test # 12</h1> 
    
         </div>
