@@ -22,7 +22,7 @@
     </head>
     <body class="antialiased">
         <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0" style="background-color:#9df8ac">
-            <img src="https://www.jenkins.io/images/logo-title-opengraph.png">
+           <center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png"> </center><br>
             <h1>CI CD (Jenkins) Live Demo Test # 12</h1> 
    
         </div>
