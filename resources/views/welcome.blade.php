@@ -23,7 +23,7 @@
     <body class="antialiased">
         <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0" style="background-color:#9df8ac">
  
-            <h1>CI CD Live Demo Test # 12</h1> 
+            <h1>CI CD (Jenkinks) Live Demo Test # 12</h1> 
    
         </div>
     </body>
