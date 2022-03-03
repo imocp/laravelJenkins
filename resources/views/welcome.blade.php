@@ -22,7 +22,7 @@
     </head>
     <body class="antialiased">
         <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0" style="background-color:#9df8ac">
-           <center> <img src="https://brandslogos.com/wp-content/uploads/thumbs/jenkins-logo-vector.svg"> </center><br>
+           <center> <img src="https://brandslogos.com/wp-content/uploads/thumbs/jenkins-logo-vector.svg"> </center><p>
             <h1>CI CD (Jenkins) Live Demo Test # 12</h1> 
    
         </div>
